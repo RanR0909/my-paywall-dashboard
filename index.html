@@ -812,7 +812,7 @@ function renderApps() {
 }
 
 function cardHTML(a) {
-  const href = a.app_detail_url || a.github_url;
+  const href = a.github_url || a.app_detail_url;
   const monthly = a.monthly_price_num ? fmtPrice(a.monthly_price_num) : "—";
   const rating = a.rating ? a.rating.toFixed(2) : "—";
   const mrrDisplay = a.mrr || fmtMRR(a.mrr_num);
