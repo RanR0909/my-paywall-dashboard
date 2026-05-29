@@ -1,0 +1,10 @@
+# Local clone produced by scripts/parse.py
+paywall-gallery/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
