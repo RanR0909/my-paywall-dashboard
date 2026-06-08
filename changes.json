@@ -1,14 +1,1004 @@
 {
-  "current_date": "2026-06-01",
-  "previous_date": "2026-05-29",
+  "current_date": "2026-06-08",
+  "previous_date": "2026-06-01",
   "summary": {
-    "added": 0,
+    "added": 50,
     "removed": 0,
     "pricing_changed": 0,
-    "paywall_type_changed": 0
+    "paywall_type_changed": 84
   },
-  "added_apps": [],
+  "added_apps": [
+    {
+      "app_name": "Brilliant: Learn Math & Coding",
+      "app_id": 913335252,
+      "category": "Education",
+      "mrr_num": 0.04454,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "AI Skin Scanner - SkinGuru",
+      "app_id": 6474288157,
+      "category": "Medical",
+      "mrr_num": 0.04436,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Virus Protection for Phone",
+      "app_id": 6736693162,
+      "category": "Utilities",
+      "mrr_num": 0.04434,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Airbrush: Face Photo Editor",
+      "app_id": 998411110,
+      "category": "Photo & Video",
+      "mrr_num": 0.0443,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Fantastical Calendar",
+      "app_id": 718043190,
+      "category": "Productivity",
+      "mrr_num": 0.04427,
+      "monthly_price_num": 6.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "CollX: Sports Card Scanner",
+      "app_id": 1581164444,
+      "category": "Sports",
+      "mrr_num": 0.04423,
+      "monthly_price_num": 9.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Photo Retouch-Object Removal",
+      "app_id": 1230394683,
+      "category": "Photo & Video",
+      "mrr_num": 0.04401,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Chordify: Songs, Chords, Tuner",
+      "app_id": 1073624757,
+      "category": "Music",
+      "mrr_num": 0.04373,
+      "monthly_price_num": 9.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "LEGO® DUPLO® World",
+      "app_id": 1458749093,
+      "category": "Education",
+      "mrr_num": 0.04372,
+      "monthly_price_num": 6.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Care.com: Hire Caregivers",
+      "app_id": 328453619,
+      "category": "Lifestyle",
+      "mrr_num": 0.04362,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Currency Paywall"
+    },
+    {
+      "app_name": "Betternet VPN: Best VPN Proxy",
+      "app_id": 946659216,
+      "category": "Productivity",
+      "mrr_num": 0.04341,
+      "monthly_price_num": 12.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Fonts Art: Keyboard for iPhone",
+      "app_id": 1480383173,
+      "category": "Utilities",
+      "mrr_num": 0.04338,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "PhotoApp - AI Photo Enhancer",
+      "app_id": 1596089614,
+      "category": "Photo & Video",
+      "mrr_num": 0.04328,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Reddit",
+      "app_id": 1064216828,
+      "category": "News",
+      "mrr_num": 0.04321,
+      "monthly_price_num": 6.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "SmartGym: Gym & Home Workouts",
+      "app_id": 922744883,
+      "category": "Health & Fitness",
+      "mrr_num": 0.04318,
+      "monthly_price_num": 14.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Truecaller: Premium Caller ID",
+      "app_id": 448142450,
+      "category": "Utilities",
+      "mrr_num": 0.04318,
+      "monthly_price_num": 4.49,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Foodvisor - AI Calorie Counter",
+      "app_id": 1064020872,
+      "category": "Health & Fitness",
+      "mrr_num": 0.04308,
+      "monthly_price_num": 29.99,
+      "paywall_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "ChatSpace - Chat, Talk & Fun",
+      "app_id": 6443834097,
+      "category": "Social Networking",
+      "mrr_num": 0.04308,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Currency Paywall"
+    },
+    {
+      "app_name": "‎Smart Printer App: iPrint",
+      "app_id": 6445919810,
+      "category": "Business",
+      "mrr_num": 0.04307,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Lens AI & Identifier・EveryScan",
+      "app_id": 1663862037,
+      "category": "Reference",
+      "mrr_num": 0.04295,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Rokie - Remote for Roku Player",
+      "app_id": 1016562846,
+      "category": "Utilities",
+      "mrr_num": 0.04288,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "CamScanner - PDF Scanner App",
+      "app_id": 388627783,
+      "category": "Productivity",
+      "mrr_num": 0.04274,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Uplens: Photo & Video Editor",
+      "app_id": 1554939382,
+      "category": "Photo & Video",
+      "mrr_num": 0.0427,
+      "monthly_price_num": 5.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "MyScreen - Live Wallpapers",
+      "app_id": 1039845801,
+      "category": "Lifestyle",
+      "mrr_num": 0.04262,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Nail Salon Games for Kids 2-5",
+      "app_id": 6472039857,
+      "category": "Education",
+      "mrr_num": 0.04233,
+      "monthly_price_num": 19.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Authenticator ® App",
+      "app_id": 6480253221,
+      "category": "Productivity",
+      "mrr_num": 0.04231,
+      "monthly_price_num": 19.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "PixVerse: AI Video Generator",
+      "app_id": 6599839203,
+      "category": "Photo & Video",
+      "mrr_num": 0.04222,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "HOF: Sports Stats & Data",
+      "app_id": 6449443337,
+      "category": "Sports",
+      "mrr_num": 0.04209,
+      "monthly_price_num": 19.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "BeautyUp－AI Face & Body Editor",
+      "app_id": 1671843069,
+      "category": "Photo & Video",
+      "mrr_num": 0.0419,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "sendit - get it now",
+      "app_id": 1439623630,
+      "category": "Social Networking",
+      "mrr_num": 0.04156,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "OpusClip - AI video clipping",
+      "app_id": 6743615403,
+      "category": "Photo & Video",
+      "mrr_num": 0.04139,
+      "monthly_price_num": 15.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Jotform - Form, Sign & Survey",
+      "app_id": 1391524277,
+      "category": "Business",
+      "mrr_num": 0.04138,
+      "monthly_price_num": 39.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Hushed: US Second Phone Number",
+      "app_id": 600520752,
+      "category": "Utilities",
+      "mrr_num": 0.04115,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Credit Paywall"
+    },
+    {
+      "app_name": "codeSpark - Coding for Kids",
+      "app_id": 923441570,
+      "category": "Education",
+      "mrr_num": 0.04111,
+      "monthly_price_num": 12.99,
+      "paywall_type": "Free Trial - Hard Paywall"
+    },
+    {
+      "app_name": "Starfall",
+      "app_id": 707189889,
+      "category": "Education",
+      "mrr_num": 0.0411,
+      "monthly_price_num": 5.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "CooMeet",
+      "app_id": 1459611740,
+      "category": "Social Networking",
+      "mrr_num": 0.0407,
+      "monthly_price_num": 16.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "HeyStar-AI Photo Editor",
+      "app_id": 6754450703,
+      "category": "Utilities",
+      "mrr_num": 0.0406,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "TotalAV",
+      "app_id": 1130411958,
+      "category": "Utilities",
+      "mrr_num": 0.0405,
+      "monthly_price_num": 7.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Pollo AI - AI Video Generator",
+      "app_id": 6740024098,
+      "category": "Photo & Video",
+      "mrr_num": 0.04048,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Forma: PDF Document Editor",
+      "app_id": 1658514439,
+      "category": "Productivity",
+      "mrr_num": 0.04029,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "MM: Elite Premium Dating App",
+      "app_id": 1484587490,
+      "category": "Social Networking",
+      "mrr_num": 0.04025,
+      "monthly_price_num": 19.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Cricbuzz Live Cricket Scores",
+      "app_id": 360466413,
+      "category": "Sports",
+      "mrr_num": 0.04012,
+      "monthly_price_num": 9.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Elf Alert: Elf & Santa Camera",
+      "app_id": 6754893687,
+      "category": "Photo & Video",
+      "mrr_num": 0.03976,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Currency Paywall"
+    },
+    {
+      "app_name": "Spicychat AI: Roleplay Chat",
+      "app_id": 6471116525,
+      "category": "Entertainment",
+      "mrr_num": 0.03975,
+      "monthly_price_num": 4.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Glucose | Blood Sugar Tracker",
+      "app_id": 1135157609,
+      "category": "Medical",
+      "mrr_num": 0.03936,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Photo Lab — AI Image Editor",
+      "app_id": 441457218,
+      "category": "Photo & Video",
+      "mrr_num": 0.03935,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Buddy.ai: Kids Learning Games",
+      "app_id": 1255783056,
+      "category": "Education",
+      "mrr_num": 0.03894,
+      "monthly_price_num": 6.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Kids cooking games 2+ year old",
+      "app_id": 1623570895,
+      "category": "Education",
+      "mrr_num": 0.03891,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Hard Paywall"
+    },
+    {
+      "app_name": "Ride with GPS: Bike Navigation",
+      "app_id": 893687399,
+      "category": "Health & Fitness",
+      "mrr_num": 0.0389,
+      "monthly_price_num": 7.99,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Fender Play: Learn Guitar",
+      "app_id": 1226057939,
+      "category": "Education",
+      "mrr_num": 0.0388,
+      "monthly_price_num": 19.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    }
+  ],
   "removed_apps": [],
   "pricing_changes": [],
-  "paywall_type_changes": []
+  "paywall_type_changes": [
+    {
+      "app_name": "AI Calorie Counter - Appediet",
+      "app_id": 6450329545,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "AI Catch: AI Video Generator",
+      "app_id": 6739276631,
+      "category": "Photo & Video",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "AI Chatbot: Pixi",
+      "app_id": 6499593159,
+      "category": "Productivity",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Alarmy - Loud alarm clock",
+      "app_id": 1163786766,
+      "category": "Lifestyle",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Azar: Chat, Meet Friends",
+      "app_id": 972558973,
+      "category": "Social Networking",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Balance: Meditation & Sleep",
+      "app_id": 1361356590,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Beat Maker Pro: Music drum Pad",
+      "app_id": 1362013798,
+      "category": "Music",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "BIGO LIVE-Live Stream, Go Live",
+      "app_id": 1077137248,
+      "category": "Social Networking",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Blinkist: Book Summaries Daily",
+      "app_id": 568839295,
+      "category": "Education",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Bumble Dating App: Meet & Date",
+      "app_id": 930441707,
+      "category": "Lifestyle",
+      "old_type": "Credit Paywall",
+      "new_type": "Credit Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Cardi Mate: Heart Rate Monitor",
+      "app_id": 1570842053,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Citizen: Safety & Live Video",
+      "app_id": 1039889567,
+      "category": "News",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Clip Studio Paint",
+      "app_id": 1262985592,
+      "category": "Graphics & Design",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "CoinSnap: Coin Identifier",
+      "app_id": 1634551626,
+      "category": "Reference",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Coloring Games for Kids 2-6!",
+      "app_id": 451719402,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "DaVinci - Image Generator AI",
+      "app_id": 1630366866,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Dr. Kegel: For Men’s Health",
+      "app_id": 1470065487,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "app_id": 6445905219,
+      "category": "Entertainment",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "DramaWave - Dramas & Reels",
+      "app_id": 6670430706,
+      "category": "Entertainment",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "DreameShort - Drama TV",
+      "app_id": 6462846884,
+      "category": "Entertainment",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Eato®: Calorie Tracker",
+      "app_id": 6478076952,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Fambase: Live & Group Chat",
+      "app_id": 1580059320,
+      "category": "Utilities",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Flightradar24 | Flight Tracker",
+      "app_id": 382233851,
+      "category": "Travel",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Flipped:Chat with AI Character",
+      "app_id": 6445969623,
+      "category": "Entertainment",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Gaze: Live Video Chat App",
+      "app_id": 1506577189,
+      "category": "Social Networking",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "GoodNovel - Booktok, Stories",
+      "app_id": 1503128132,
+      "category": "Books",
+      "old_type": "Currency Paywall",
+      "new_type": "Currency Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "GoodShort - Short Dramas Hub",
+      "app_id": 6448176203,
+      "category": "Entertainment",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "GraceChat",
+      "app_id": 1658972379,
+      "category": "Social Networking",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Gronda: Recipes for Chefs",
+      "app_id": 1164423781,
+      "category": "Food & Drink",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "GrowIt: Garden Planner",
+      "app_id": 6443580320,
+      "category": "Lifestyle",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Hallow: Prayer & Meditation",
+      "app_id": 1405323394,
+      "category": "Reference",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "HelloTalk - Language Learning",
+      "app_id": 557130558,
+      "category": "Education",
+      "old_type": "Currency Paywall",
+      "new_type": "Currency Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "I Am Sober",
+      "app_id": 672904239,
+      "category": "Lifestyle",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Instories: AI Photo & Video",
+      "app_id": 1454762989,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "IQ Masters: Brain Games, Tests",
+      "app_id": 6475717895,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "iRomance-Step Into Stories",
+      "app_id": 1643862208,
+      "category": "Games",
+      "old_type": "Currency Paywall",
+      "new_type": "Currency Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Joi - Live Stream",
+      "app_id": 1497699883,
+      "category": "Social Networking",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Kahoot! Play & Create Quizzes",
+      "app_id": 1131203560,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "KidloLand Kids Toddler Games",
+      "app_id": 533412119,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Kismia - Dating App & Chat",
+      "app_id": 1571274697,
+      "category": "Lifestyle",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "LazyFit: Workout For Beginners",
+      "app_id": 1669413773,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Lowins - Live Video Streaming",
+      "app_id": 1540625368,
+      "category": "Social Networking",
+      "old_type": "Currency Paywall",
+      "new_type": "Currency Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Luxy - Selective Dating App",
+      "app_id": 873518909,
+      "category": "Social Networking",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Marco Polo - Video Messenger",
+      "app_id": 912561374,
+      "category": "Social Networking",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Meitu AI Photo & Video Editor",
+      "app_id": 416048305,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "MICO: Make Friends, Go Live",
+      "app_id": 908023218,
+      "category": "Social Networking",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Nibble: Your Bite of Knowledge",
+      "app_id": 6444046612,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Norton 360 Security & VPN",
+      "app_id": 1278474169,
+      "category": "Utilities",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "NYT Cooking: Quick Tasty Meals",
+      "app_id": 911422904,
+      "category": "Food & Drink",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "OkCupid Dating: Date Singles",
+      "app_id": 338701294,
+      "category": "Lifestyle",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Credit Paywall"
+    },
+    {
+      "app_name": "onX Hunt: GPS Hunting Maps",
+      "app_id": 672902340,
+      "category": "Navigation",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Package Tracker - pkge Mobile",
+      "app_id": 1397865865,
+      "category": "Business",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "PictureThis - Plant Identifier",
+      "app_id": 1252497129,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Planner & Journal - Zinnia",
+      "app_id": 1485310935,
+      "category": "Lifestyle",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Planner 5D: AI Home Design",
+      "app_id": 606173978,
+      "category": "Lifestyle",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Podcast App",
+      "app_id": 1199070742,
+      "category": "News",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Pok Pok | Montessori Preschool",
+      "app_id": 1550204730,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Pray.com: Bible & Daily Prayer",
+      "app_id": 1161035371,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Private Photo Vault - Pic Safe",
+      "app_id": 417571834,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "QR Code Reader，Barcode Scanner",
+      "app_id": 1226650677,
+      "category": "Utilities",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "ReciMe: Recipes & Meal Planner",
+      "app_id": 1593779280,
+      "category": "Food & Drink",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Retouch Me: Face, Body Editor",
+      "app_id": 830286763,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Rosetta Stone Classic (2024)",
+      "app_id": 435588892,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "ScanGuru: PDF Scanner App",
+      "app_id": 1040149161,
+      "category": "Business",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Scanner – Scan PDF & Document",
+      "app_id": 1291962681,
+      "category": "Business",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Second Phone Number - 2Number",
+      "app_id": 1216135390,
+      "category": "Utilities",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Secret Photo Vault: Keepsafe",
+      "app_id": 510873505,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Sereal+ Short Drama, TV Series",
+      "app_id": 6473688138,
+      "category": "Entertainment",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Smart Cleaner: Free Up Storage",
+      "app_id": 6448222268,
+      "category": "Utilities",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Solvely - AI Study Tools",
+      "app_id": 6446930976,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Speak: Language Learning",
+      "app_id": 1286609883,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Splash Jr: PreK & Kindergarten",
+      "app_id": 610303073,
+      "category": "Education",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "SplashLearn: Kids Learning App",
+      "app_id": 672658828,
+      "category": "Education",
+      "old_type": "Free Trial - Hard Paywall",
+      "new_type": "Free Trial - Hard Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "The Athletic: All Sports News",
+      "app_id": 1135216317,
+      "category": "Sports",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Ultimate Guitar: Chords & Tabs",
+      "app_id": 357828853,
+      "category": "Music",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Unfold: Reels & Story Maker",
+      "app_id": 1247275033,
+      "category": "Photo & Video",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Universal Remote TV Control ·",
+      "app_id": 1581765635,
+      "category": "Utilities",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Wanderlog - Travel Planner",
+      "app_id": 1476732439,
+      "category": "Travel",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Workout for Women: Home & Gym",
+      "app_id": 839285684,
+      "category": "Health & Fitness",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "YouCam Makeup: Face Editor",
+      "app_id": 863844475,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "YouCam Perfect:AI Photo Editor",
+      "app_id": 768469908,
+      "category": "Photo & Video",
+      "old_type": "Free Trial - Soft Paywall",
+      "new_type": "Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "YouTube Music",
+      "app_id": 1017492454,
+      "category": "Music",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Yubo: Chat Meet & Make Friends",
+      "app_id": 1038653883,
+      "category": "Social Networking",
+      "old_type": "No Free Trial - Soft Paywall",
+      "new_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "ZEPETO: Avatar, Connect & Live",
+      "app_id": 1350301428,
+      "category": "Social Networking",
+      "old_type": "Currency Paywall",
+      "new_type": "Currency Paywall, No Free Trial - Soft Paywall"
+    }
+  ]
 }
