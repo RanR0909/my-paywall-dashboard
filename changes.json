@@ -1,6 +1,6 @@
 {
-  "current_date": "2026-10-05",
-  "previous_date": "2026-09-28",
+  "current_date": "2026-10-12",
+  "previous_date": "2026-10-05",
   "summary": {
     "added": 50,
     "removed": 0,
@@ -9,404 +9,404 @@
   },
   "added_apps": [
     {
-      "app_name": "Keily-Create AI Stroy",
-      "app_id": 6754167179,
-      "category": "Lifestyle",
-      "mrr_num": 0.00556,
-      "monthly_price_num": 39.99,
-      "paywall_type": "No Free Trial - Soft Paywall, Currency Paywall"
-    },
-    {
-      "app_name": "Second Grade Learning Games",
-      "app_id": 603712499,
-      "category": "Education",
-      "mrr_num": 0.00556,
-      "monthly_price_num": 8.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Cosplay: Future Baby Generator",
-      "app_id": 1673241595,
-      "category": "Photo & Video",
-      "mrr_num": 0.00556,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Studio KSL by Katrina Scott",
-      "app_id": 6740766431,
-      "category": "Health & Fitness",
-      "mrr_num": 0.00555,
-      "monthly_price_num": 27.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Trimbox: Email Cleaner",
-      "app_id": 6466923521,
-      "category": "Productivity",
-      "mrr_num": 0.00552,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Hard Paywall"
-    },
-    {
-      "app_name": "Filmora: AI Video Editor&Maker",
-      "app_id": 1019382747,
-      "category": "Photo & Video",
-      "mrr_num": 0.0055,
-      "monthly_price_num": 12.99,
-      "paywall_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "SmartGuard:Storage Cleaner",
-      "app_id": 6651830603,
-      "category": "Productivity",
-      "mrr_num": 0.00549,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "AI DJ - Mashup Maker Vocal",
-      "app_id": 6743394019,
+      "app_name": "Udio: AI Music Maker & Studio",
+      "app_id": 6511211165,
       "category": "Music",
-      "mrr_num": 0.00548,
-      "monthly_price_num": 0.0,
+      "mrr_num": 0.005,
+      "monthly_price_num": 10.0,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "TanTan - Asian Dating App",
-      "app_id": 861891048,
+      "app_name": "FoxNote - AI Note Taker",
+      "app_id": 6742171260,
+      "category": "Productivity",
+      "mrr_num": 0.005,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Shared Family Calendar: FamCal",
+      "app_id": 1098999871,
+      "category": "Productivity",
+      "mrr_num": 0.00497,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Authenticator App ⁸",
+      "app_id": 6744388310,
+      "category": "Business",
+      "mrr_num": 0.00497,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "SLYNUMBER",
+      "app_id": 1634197601,
       "category": "Social Networking",
-      "mrr_num": 0.00547,
-      "monthly_price_num": 1.99,
+      "mrr_num": 0.00495,
+      "monthly_price_num": 0.0,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "AI Chatbot - Nova",
-      "app_id": 1669007652,
+      "app_name": "SpeakApp AI: Voice Notes",
+      "app_id": 6468764490,
       "category": "Productivity",
-      "mrr_num": 0.00546,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Smart Noter - AI Note Taker",
-      "app_id": 6739575916,
-      "category": "Productivity",
-      "mrr_num": 0.00546,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Worship Backing Tracks",
-      "app_id": 1241843183,
-      "category": "Music",
-      "mrr_num": 0.00546,
-      "monthly_price_num": 39.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "DJ it! Virtual Music Mixer app",
-      "app_id": 1470224073,
-      "category": "Music",
-      "mrr_num": 0.00545,
+      "mrr_num": 0.00489,
       "monthly_price_num": 14.99,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "AI Baby Generator - TinyFaces",
-      "app_id": 1597747893,
-      "category": "Photo & Video",
-      "mrr_num": 0.00544,
-      "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Lawfully Case Tracker",
-      "app_id": 1435063223,
-      "category": "Utilities",
-      "mrr_num": 0.00543,
-      "monthly_price_num": 14.99,
-      "paywall_type": "Currency Paywall, Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "HuntWise: A Better Hunting App",
-      "app_id": 645518545,
-      "category": "Navigation",
-      "mrr_num": 0.00543,
-      "monthly_price_num": 19.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "DMV Genie: Permit Test 2026",
-      "app_id": 513850893,
-      "category": "Education",
-      "mrr_num": 0.00542,
-      "monthly_price_num": 39.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "4APP Sports",
-      "app_id": 1551925155,
-      "category": "Sports",
-      "mrr_num": 0.00542,
-      "monthly_price_num": 199.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Beside (M1): AI Receptionist",
-      "app_id": 6453521926,
+      "app_name": "Scriptation: PDF for Film & TV",
+      "app_id": 1094587086,
       "category": "Productivity",
-      "mrr_num": 0.00537,
-      "monthly_price_num": 29.99,
+      "mrr_num": 0.00487,
+      "monthly_price_num": 14.99,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Channel - AI Videos and Chat",
-      "app_id": 6481246035,
-      "category": "Entertainment",
-      "mrr_num": 0.00537,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Kids Autism Games - AutiSpark",
-      "app_id": 1498731271,
-      "category": "Education",
-      "mrr_num": 0.00535,
-      "monthly_price_num": 6.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Merriam-Webster Dictionary",
-      "app_id": 399452287,
-      "category": "Reference",
-      "mrr_num": 0.00534,
-      "monthly_price_num": 1.79,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "MoboReels: Short Drama Series",
-      "app_id": 6450243852,
-      "category": "Entertainment",
-      "mrr_num": 0.00533,
-      "monthly_price_num": 49.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "QR Code Scanner & AI Generator",
-      "app_id": 6486535102,
-      "category": "Utilities",
-      "mrr_num": 0.00531,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Phone Tracker: Locate Device",
-      "app_id": 6752253049,
-      "category": "Utilities",
-      "mrr_num": 0.00526,
-      "monthly_price_num": 21.99,
+      "app_name": "MalwareDefender VPN PRO",
+      "app_id": 6504996976,
+      "category": "Productivity",
+      "mrr_num": 0.00487,
+      "monthly_price_num": 14.99,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Sleep Cycle - Tracker & Sounds",
-      "app_id": 320606217,
+      "app_name": "Endel: Focus & Sleep Sounds",
+      "app_id": 1346247457,
       "category": "Health & Fitness",
-      "mrr_num": 0.00524,
+      "mrr_num": 0.00486,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Time Warp: Scan Filter & Emoji",
+      "app_id": 6451967962,
+      "category": "Utilities",
+      "mrr_num": 0.00485,
+      "monthly_price_num": 12.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Guitar Tuner - GuitarTunio",
+      "app_id": 1448661287,
+      "category": "Music",
+      "mrr_num": 0.00484,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Hopscotch-Programming for kids",
+      "app_id": 617098629,
+      "category": "Education",
+      "mrr_num": 0.00481,
+      "monthly_price_num": 9.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "must.fm for Spotify Stats",
+      "app_id": 6444621447,
+      "category": "Music",
+      "mrr_num": 0.0048,
       "monthly_price_num": 0.0,
       "paywall_type": "Free Trial - Hard Paywall"
     },
     {
-      "app_name": "Funny Prank Sounds & Joy Toys",
-      "app_id": 6476749941,
-      "category": "Entertainment",
-      "mrr_num": 0.00524,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Plant Identifier - PlantMe",
-      "app_id": 1532875668,
-      "category": "Education",
-      "mrr_num": 0.00522,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Skins Battle Royale for FBR",
-      "app_id": 6529521759,
-      "category": "Entertainment",
-      "mrr_num": 0.00522,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Hard Paywall"
-    },
-    {
-      "app_name": "MGM+",
-      "app_id": 1387514950,
-      "category": "Entertainment",
-      "mrr_num": 0.0052,
-      "monthly_price_num": 7.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Noji - Flashcards study app",
-      "app_id": 1573585542,
-      "category": "Education",
-      "mrr_num": 0.00517,
+      "app_name": "Sound Player : Unlimited Music",
+      "app_id": 6740703431,
+      "category": "Music",
+      "mrr_num": 0.00478,
       "monthly_price_num": 4.99,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Cleaner Master Pro-Cleanup App",
-      "app_id": 6739254215,
-      "category": "Utilities",
-      "mrr_num": 0.00517,
+      "app_name": "Vigloo - Premier Short Dramas",
+      "app_id": 6503421271,
+      "category": "Entertainment",
+      "mrr_num": 0.00475,
       "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
+      "paywall_type": "Currency Paywall"
     },
     {
-      "app_name": "Invoice & Estimate Maker",
-      "app_id": 1271353929,
-      "category": "Business",
-      "mrr_num": 0.00515,
-      "monthly_price_num": 1.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Piano by Yousician",
-      "app_id": 1469033443,
-      "category": "Education",
-      "mrr_num": 0.00515,
-      "monthly_price_num": 29.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Kids Drawing Games & Coloring",
-      "app_id": 1436397693,
-      "category": "Education",
-      "mrr_num": 0.00514,
-      "monthly_price_num": 4.11,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Turbo VPN Private Browser",
-      "app_id": 1365309175,
-      "category": "Productivity",
-      "mrr_num": 0.00512,
-      "monthly_price_num": 11.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "I am - Daily Affirmations",
-      "app_id": 874656917,
+      "app_name": "Clue Period & Cycle Tracker",
+      "app_id": 657189652,
       "category": "Health & Fitness",
-      "mrr_num": 0.00511,
-      "monthly_price_num": 0.0,
+      "mrr_num": 0.00474,
+      "monthly_price_num": 9.99,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Audio Editor : Audiolab",
-      "app_id": 6446192816,
-      "category": "Music",
-      "mrr_num": 0.00511,
+      "app_name": "Teleprompter",
+      "app_id": 941620509,
+      "category": "Productivity",
+      "mrr_num": 0.00473,
       "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "D&D Beyond",
-      "app_id": 1501810129,
-      "category": "Entertainment",
-      "mrr_num": 0.0051,
-      "monthly_price_num": 5.99,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Visto: AI Video Photo Creator",
-      "app_id": 6745590012,
+      "app_name": "Melba: Couples & Intimacy",
+      "app_id": 1617445144,
+      "category": "Health & Fitness",
+      "mrr_num": 0.00472,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Ace Trace - Shot Tracker",
+      "app_id": 1570844427,
+      "category": "Sports",
+      "mrr_num": 0.00471,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "MaxCleaner AI: Free Up Space",
+      "app_id": 6746647977,
+      "category": "Productivity",
+      "mrr_num": 0.00469,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Playlet: Watch Short Dramas&TV",
+      "app_id": 6469587141,
+      "category": "Entertainment",
+      "mrr_num": 0.00468,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Currency Paywall"
+    },
+    {
+      "app_name": "My Translator - AI Translate",
+      "app_id": 6738385447,
+      "category": "Reference",
+      "mrr_num": 0.00466,
+      "monthly_price_num": 19.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "ShortsWave: Watch Drama Series",
+      "app_id": 6478104173,
+      "category": "Entertainment",
+      "mrr_num": 0.00466,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall, Currency Paywall"
+    },
+    {
+      "app_name": "Cleaner Suite:Clean up Storage",
+      "app_id": 6502891802,
+      "category": "Productivity",
+      "mrr_num": 0.00465,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Medium: Read & Write Stories",
+      "app_id": 828256236,
+      "category": "News",
+      "mrr_num": 0.00463,
+      "monthly_price_num": 4.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Yahoo Fantasy Sports: NFL, MLB",
+      "app_id": 328415391,
+      "category": "Sports",
+      "mrr_num": 0.00462,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Manta - Manga, Manhwa, Novels",
+      "app_id": 1536116642,
+      "category": "Books",
+      "mrr_num": 0.00462,
+      "monthly_price_num": 4.99,
+      "paywall_type": "Currency Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Cleaner AI: Photo Cleanup",
+      "app_id": 6502456017,
+      "category": "Utilities",
+      "mrr_num": 0.00461,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Tap & Print: Smart Printer App",
+      "app_id": 1329476705,
+      "category": "Business",
+      "mrr_num": 0.00461,
+      "monthly_price_num": 14.99,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "HomeCourt: Basketball Training",
+      "app_id": 1258520424,
+      "category": "Sports",
+      "mrr_num": 0.00461,
+      "monthly_price_num": 7.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Reface: AI Face Swap & Editor",
+      "app_id": 1488782587,
+      "category": "Graphics & Design",
+      "mrr_num": 0.00461,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Evernote Scannable",
+      "app_id": 883338188,
+      "category": "Productivity",
+      "mrr_num": 0.00459,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "vidIQ for YouTube & Instagram",
+      "app_id": 1458235345,
       "category": "Photo & Video",
-      "mrr_num": 0.0051,
-      "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Addons for Minecraft",
-      "app_id": 1170340094,
-      "category": "Entertainment",
-      "mrr_num": 0.00508,
+      "mrr_num": 0.00458,
       "monthly_price_num": 8.99,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Police Scanner +",
-      "app_id": 498408628,
-      "category": "News",
-      "mrr_num": 0.00507,
+      "app_name": "Wine-Searcher",
+      "app_id": 599836194,
+      "category": "Food & Drink",
+      "mrr_num": 0.00455,
+      "monthly_price_num": 10.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "AR Drawing: Sketch & Paint",
+      "app_id": 6448484908,
+      "category": "Graphics & Design",
+      "mrr_num": 0.00455,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "FINESSE: Workout Programs",
+      "app_id": 6751916496,
+      "category": "Health & Fitness",
+      "mrr_num": 0.00453,
+      "monthly_price_num": 9.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "VinylSnap: Scan & Value Record",
+      "app_id": 6748595105,
+      "category": "Reference",
+      "mrr_num": 0.00452,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Printer App: Smart Print App",
+      "app_id": 1661905836,
+      "category": "Business",
+      "mrr_num": 0.00452,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "AdProtector",
+      "app_id": 6449463060,
+      "category": "Utilities",
+      "mrr_num": 0.00451,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Yuzu: Asian Dating & Friends",
+      "app_id": 1669115248,
+      "category": "Social Networking",
+      "mrr_num": 0.0045,
+      "monthly_price_num": 29.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Home Security Camera ™",
+      "app_id": 6504337101,
+      "category": "Utilities",
+      "mrr_num": 0.00448,
+      "monthly_price_num": 17.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Smart Web Radar",
+      "app_id": 1633962564,
+      "category": "Productivity",
+      "mrr_num": 0.00447,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Kids ABC Phonics Tracing Games",
+      "app_id": 1482752587,
+      "category": "Education",
+      "mrr_num": 0.00447,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "1st Phorm",
+      "app_id": 1445819600,
+      "category": "Health & Fitness",
+      "mrr_num": 0.00445,
+      "monthly_price_num": 29.99,
+      "paywall_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "AI Plant Identifier・Care－Lily",
+      "app_id": 1570145257,
+      "category": "Education",
+      "mrr_num": 0.00445,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Hard Paywall"
+    },
+    {
+      "app_name": "RealCall - Spam Call Blocker",
+      "app_id": 1615561965,
+      "category": "Utilities",
+      "mrr_num": 0.00445,
       "monthly_price_num": 9.99,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Midco Sports Plus",
-      "app_id": 1522574425,
-      "category": "Sports",
-      "mrr_num": 0.00507,
-      "monthly_price_num": 24.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "app_name": "VideoGPT - AI Video Generator",
+      "app_id": 6451396274,
+      "category": "Photo & Video",
+      "mrr_num": 0.00443,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Fantasy Football Draft Kit UDK",
-      "app_id": 1439385193,
-      "category": "Sports",
-      "mrr_num": 0.00505,
+      "app_name": "Aureel - Ai Video Generator",
+      "app_id": 6749286049,
+      "category": "Photo & Video",
+      "mrr_num": 0.00442,
       "monthly_price_num": 0.0,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "FishAngler: Fishing App",
-      "app_id": 1073941118,
-      "category": "Sports",
-      "mrr_num": 0.00504,
-      "monthly_price_num": 6.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Bebi: Baby Games for Preschool",
-      "app_id": 1474248135,
+      "app_name": "Sight Words & Phonics Reading",
+      "app_id": 878724595,
       "category": "Education",
-      "mrr_num": 0.00502,
-      "monthly_price_num": 11.99,
+      "mrr_num": 0.0044,
+      "monthly_price_num": 5.49,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "ETV Win",
-      "app_id": 1245077673,
-      "category": "Entertainment",
-      "mrr_num": 0.00501,
-      "monthly_price_num": 7.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "GO Raid Party",
-      "app_id": 1525921773,
-      "category": "Utilities",
-      "mrr_num": 0.00501,
-      "monthly_price_num": 14.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Scuba Diving Computer Oceanic+",
-      "app_id": 1610517133,
-      "category": "Sports",
-      "mrr_num": 0.005,
-      "monthly_price_num": 9.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Rewatch LIVE: Save Live Stream",
-      "app_id": 6475189565,
-      "category": "Social Networking",
-      "mrr_num": 0.005,
-      "monthly_price_num": 17.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "app_name": "Third Grade Learning Games",
+      "app_id": 644836476,
+      "category": "Education",
+      "mrr_num": 0.0044,
+      "monthly_price_num": 8.99,
+      "paywall_type": "Free Trial - Soft Paywall"
     }
   ],
   "removed_apps": [],
