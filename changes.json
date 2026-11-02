@@ -1,6 +1,6 @@
 {
-  "current_date": "2026-10-26",
-  "previous_date": "2026-10-19",
+  "current_date": "2026-11-02",
+  "previous_date": "2026-10-26",
   "summary": {
     "added": 50,
     "removed": 0,
@@ -9,404 +9,404 @@
   },
   "added_apps": [
     {
-      "app_name": "Fonts - AI Stickers",
-      "app_id": 1454061614,
-      "category": "Utilities",
-      "mrr_num": 0.00388,
-      "monthly_price_num": 0.0,
+      "app_name": "Cast Web Videos to TV - iWebTV",
+      "app_id": 999462129,
+      "category": "Photo & Video",
+      "mrr_num": 0.00349,
+      "monthly_price_num": 0.99,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Kuli Kuli: Travel Translator",
-      "app_id": 6458146511,
-      "category": "Reference",
-      "mrr_num": 0.00388,
-      "monthly_price_num": 14.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Ayatique: Quran Stories",
-      "app_id": 6740481012,
-      "category": "Reference",
-      "mrr_num": 0.00388,
-      "monthly_price_num": 6.99,
-      "paywall_type": "No Free Trial - Hard Paywall"
-    },
-    {
-      "app_name": "Arvin®: AI Product Photo Maker",
-      "app_id": 6446556788,
-      "category": "Graphics & Design",
-      "mrr_num": 0.00388,
-      "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "The Globe and Mail",
-      "app_id": 429228415,
-      "category": "News",
-      "mrr_num": 0.00387,
-      "monthly_price_num": 1.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Pulsebit: Heart Rate Monitor",
-      "app_id": 1581114201,
-      "category": "Health & Fitness",
-      "mrr_num": 0.00386,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "LogTen Pilot Logbook",
-      "app_id": 837274884,
-      "category": "Utilities",
-      "mrr_num": 0.00385,
-      "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Tigo Live",
-      "app_id": 1573193510,
-      "category": "Social Networking",
-      "mrr_num": 0.00385,
-      "monthly_price_num": 1.99,
-      "paywall_type": "Currency Paywall, No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "NCLEX RN Mastery Exam - 2026",
-      "app_id": 625614526,
+      "app_name": "IMAIOS e-Anatomy",
+      "app_id": 334876403,
       "category": "Medical",
-      "mrr_num": 0.00385,
-      "monthly_price_num": 29.99,
-      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Eatr: Tasty Cooking Recipes",
-      "app_id": 6479693198,
-      "category": "Food & Drink",
-      "mrr_num": 0.00384,
-      "monthly_price_num": 9.99,
+      "mrr_num": 0.00347,
+      "monthly_price_num": 21.99,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Oxford Dictionary & Thesaurus",
-      "app_id": 978674211,
+      "app_name": "MapXplorer: GPS Navigation",
+      "app_id": 6463052823,
+      "category": "Navigation",
+      "mrr_num": 0.00346,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "The Nyx Network",
+      "app_id": 6462672843,
+      "category": "Entertainment",
+      "mrr_num": 0.00345,
+      "monthly_price_num": 5.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "AR Translator: Translate Photo",
+      "app_id": 1465903782,
       "category": "Reference",
-      "mrr_num": 0.00384,
+      "mrr_num": 0.00344,
       "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "paywall_type": "Free Trial - Hard Paywall"
     },
     {
-      "app_name": "Messenger Duo for WhatsApp",
-      "app_id": 1312424138,
-      "category": "Social Networking",
-      "mrr_num": 0.00383,
-      "monthly_price_num": 19.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "MathMaster: Math Solver & Help",
-      "app_id": 1546599293,
-      "category": "Education",
-      "mrr_num": 0.00383,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Desire AI",
-      "app_id": 6743434502,
-      "category": "Lifestyle",
-      "mrr_num": 0.00382,
-      "monthly_price_num": 24.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "GIF Maker - Memes & GIFs",
-      "app_id": 1215606098,
-      "category": "Utilities",
-      "mrr_num": 0.00381,
-      "monthly_price_num": 9.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Fatednovel- Web novel & Story",
-      "app_id": 6447497607,
+      "app_name": "WebNovel - Read Novels & Manga",
+      "app_id": 1234939196,
       "category": "Books",
-      "mrr_num": 0.0038,
+      "mrr_num": 0.00344,
       "monthly_price_num": 0.0,
       "paywall_type": "Currency Paywall"
     },
     {
-      "app_name": "Car Play Connect, Sync & Care",
-      "app_id": 1665625393,
+      "app_name": "Hopster: ABC Games for Kids",
+      "app_id": 689165391,
+      "category": "Education",
+      "mrr_num": 0.00344,
+      "monthly_price_num": 7.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Monster Math 2: Kids Math Game",
+      "app_id": 1025450732,
+      "category": "Education",
+      "mrr_num": 0.00344,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "AI Ringtones：Ringtone Maker",
+      "app_id": 6740201074,
+      "category": "Music",
+      "mrr_num": 0.00344,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Plant Guru - Plant Care Guide",
+      "app_id": 6469519481,
+      "category": "Education",
+      "mrr_num": 0.00343,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "NOAA: Weather Radar & Forecast",
+      "app_id": 6503937276,
+      "category": "Weather",
+      "mrr_num": 0.00343,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Star Walk 2 Plus: Live Sky Map",
+      "app_id": 1112481571,
+      "category": "Education",
+      "mrr_num": 0.0034,
+      "monthly_price_num": 0.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "BuckScore",
+      "app_id": 1423128708,
+      "category": "Sports",
+      "mrr_num": 0.00338,
+      "monthly_price_num": 3.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Cancel Subscriptions & Refund",
+      "app_id": 6479920412,
+      "category": "Finance",
+      "mrr_num": 0.00337,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Cleaner Neat: Clean Up Storage",
+      "app_id": 1463756032,
       "category": "Utilities",
-      "mrr_num": 0.00378,
+      "mrr_num": 0.00336,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Luxy PRO: Elite & Quality Date",
+      "app_id": 1089481539,
+      "category": "Social Networking",
+      "mrr_num": 0.00336,
+      "monthly_price_num": 99.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Smart Air Printer App & Scan",
+      "app_id": 1562653542,
+      "category": "Business",
+      "mrr_num": 0.00336,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Find My Friends: Phone Locator",
+      "app_id": 6744725106,
+      "category": "Social Networking",
+      "mrr_num": 0.00336,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Picsify: AI Photo&Video Editor",
+      "app_id": 6443500995,
+      "category": "Photo & Video",
+      "mrr_num": 0.00335,
+      "monthly_price_num": 19.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "The Week US: Daily Analysis",
+      "app_id": 498216307,
+      "category": "News",
+      "mrr_num": 0.00334,
+      "monthly_price_num": 12.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "BodyWave: Health Tracker",
+      "app_id": 6479513000,
+      "category": "Health & Fitness",
+      "mrr_num": 0.00333,
       "monthly_price_num": 14.99,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Wim Hof Method: Breathwork",
-      "app_id": 890471578,
-      "category": "Health & Fitness",
-      "mrr_num": 0.00377,
-      "monthly_price_num": 42.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Nova Cleaner: AI Clean Up",
-      "app_id": 1525336933,
-      "category": "Productivity",
-      "mrr_num": 0.00376,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Space Cleaner: File Manager",
-      "app_id": 6504668266,
-      "category": "Utilities",
-      "mrr_num": 0.00376,
-      "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Speak & Translate - Translator",
-      "app_id": 804641004,
-      "category": "Productivity",
-      "mrr_num": 0.00376,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Am I Secure? Forensic Scan",
-      "app_id": 6468312814,
-      "category": "Utilities",
-      "mrr_num": 0.00375,
-      "monthly_price_num": 9.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "NeuroBoost-IQ Enhance&CogniFit",
-      "app_id": 6742813819,
+      "app_name": "Baby Phone Game for Toddlers",
+      "app_id": 1625077286,
       "category": "Education",
-      "mrr_num": 0.00374,
-      "monthly_price_num": 0.0,
+      "mrr_num": 0.00332,
+      "monthly_price_num": 14.99,
       "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Hevy - Workout Tracker Gym Log",
-      "app_id": 1458862350,
+      "app_name": "Weight Loss Walking by Slimkit",
+      "app_id": 950669893,
       "category": "Health & Fitness",
-      "mrr_num": 0.00373,
-      "monthly_price_num": 2.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "mrr_num": 0.00331,
+      "monthly_price_num": 9.99,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "My Little Pony Rainbow Runners",
-      "app_id": 1195841989,
+      "app_name": "GOWOD – Mobility & Stretching",
+      "app_id": 1227834875,
+      "category": "Health & Fitness",
+      "mrr_num": 0.0033,
+      "monthly_price_num": 12.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Passes",
+      "app_id": 6736365906,
       "category": "Entertainment",
-      "mrr_num": 0.00371,
-      "monthly_price_num": 0.0,
+      "mrr_num": 0.00329,
+      "monthly_price_num": 50.0,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Math Learning Games For Kids +",
-      "app_id": 426907035,
-      "category": "Education",
-      "mrr_num": 0.0037,
+      "app_name": "Voice Recorder: AI Note Taker",
+      "app_id": 6503227362,
+      "category": "Utilities",
+      "mrr_num": 0.00328,
       "monthly_price_num": 0.0,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Second Phone Number -Texts App",
-      "app_id": 1189911819,
-      "category": "Utilities",
-      "mrr_num": 0.00368,
-      "monthly_price_num": 12.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Kilonotes-Notes & Mark up PDF",
-      "app_id": 1514322479,
-      "category": "Productivity",
-      "mrr_num": 0.00368,
+      "app_name": "Color by Number：Coloring Games",
+      "app_id": 1317978215,
+      "category": "Entertainment",
+      "mrr_num": 0.00328,
       "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "1 Second Everyday: Video Diary",
-      "app_id": 587823548,
-      "category": "Photo & Video",
-      "mrr_num": 0.00368,
+      "app_name": "Learning games for Kid&Toddler",
+      "app_id": 1567954947,
+      "category": "Education",
+      "mrr_num": 0.00326,
+      "monthly_price_num": 6.999,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Digital Planner – Task Journal",
+      "app_id": 1632352471,
+      "category": "Productivity",
+      "mrr_num": 0.00326,
+      "monthly_price_num": 13.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "DietAI: Calorie Counter & Diet",
+      "app_id": 6451091585,
+      "category": "Health & Fitness",
+      "mrr_num": 0.00325,
       "monthly_price_num": 9.99,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Disc Golf Network",
-      "app_id": 1499887479,
-      "category": "Sports",
-      "mrr_num": 0.00368,
-      "monthly_price_num": 12.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "app_name": "iMaps+ for Google Maps",
+      "app_id": 585801479,
+      "category": "Navigation",
+      "mrr_num": 0.00325,
+      "monthly_price_num": 6.99,
+      "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Mullvad VPN",
-      "app_id": 1488466513,
-      "category": "Utilities",
-      "mrr_num": 0.00367,
-      "monthly_price_num": 5.89,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "app_name": "Webfic-Make Reading Fantastic",
+      "app_id": 1517946671,
+      "category": "Books",
+      "mrr_num": 0.00325,
+      "monthly_price_num": 9.99,
+      "paywall_type": "No Free Trial - Soft Paywall, Currency Paywall"
     },
     {
-      "app_name": "Coin Identifier - CoinScan",
-      "app_id": 6448908389,
+      "app_name": "Sky Tonight - Stargazing Guide",
+      "app_id": 1570594940,
       "category": "Reference",
-      "mrr_num": 0.00367,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+      "mrr_num": 0.00325,
+      "monthly_price_num": 0.99,
+      "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Liftoff - Ranked Gym Workouts",
-      "app_id": 6448081563,
-      "category": "Health & Fitness",
-      "mrr_num": 0.00366,
-      "monthly_price_num": 5.0,
+      "app_name": "Bright - English for beginners",
+      "app_id": 1258621855,
+      "category": "Education",
+      "mrr_num": 0.00323,
+      "monthly_price_num": 14.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Lens Buddy - Self Timer Camera",
+      "app_id": 1289471945,
+      "category": "Photo & Video",
+      "mrr_num": 0.00323,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "KP - AI Music & Song Generator",
+      "app_id": 6744406259,
+      "category": "Music",
+      "mrr_num": 0.00323,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "PDF Expert: Editor & Reader",
+      "app_id": 743974925,
+      "category": "Productivity",
+      "mrr_num": 0.00321,
+      "monthly_price_num": 0.0,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Cocktail Flow - Drink Recipes",
+      "app_id": 486811622,
+      "category": "Food & Drink",
+      "mrr_num": 0.0032,
+      "monthly_price_num": 4.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Screen Mirroring | Smart TV",
+      "app_id": 1586624313,
+      "category": "Utilities",
+      "mrr_num": 0.00318,
+      "monthly_price_num": 9.99,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Mojo: AI Video & Reels Editor",
+      "app_id": 1434861974,
+      "category": "Photo & Video",
+      "mrr_num": 0.00315,
+      "monthly_price_num": 17.99,
       "paywall_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Race Craft - Kids Car Games",
-      "app_id": 1470056799,
-      "category": "Entertainment",
-      "mrr_num": 0.00366,
+      "app_name": "KAI: Comic Maker Manga, Manhwa",
+      "app_id": 6755991544,
+      "category": "Books",
+      "mrr_num": 0.00315,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Swimtopia",
+      "app_id": 881521818,
+      "category": "Sports",
+      "mrr_num": 0.00314,
+      "monthly_price_num": 5.99,
+      "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "IFTTT - Automate work and home",
+      "app_id": 660944635,
+      "category": "Productivity",
+      "mrr_num": 0.00314,
       "monthly_price_num": 3.99,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Marvel Unlimited",
-      "app_id": 607205403,
-      "category": "Books",
-      "mrr_num": 0.00365,
-      "monthly_price_num": 9.99,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "New York Daily News",
-      "app_id": 354730788,
-      "category": "News",
-      "mrr_num": 0.00365,
-      "monthly_price_num": 19.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Kids Games for 2,3,4 Year Olds",
-      "app_id": 1052704329,
-      "category": "Education",
-      "mrr_num": 0.00362,
-      "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "My Town : Home - Family Games",
-      "app_id": 998176001,
-      "category": "Education",
-      "mrr_num": 0.00361,
-      "monthly_price_num": 9.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Mobile Scanner App - Scan PDF",
-      "app_id": 1461747901,
-      "category": "Productivity",
-      "mrr_num": 0.00361,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Transformers Rescue Bots Hero",
-      "app_id": 1072374524,
-      "category": "Entertainment",
-      "mrr_num": 0.00361,
-      "monthly_price_num": 0.0,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "The San Diego Union-Tribune",
-      "app_id": 1145952888,
-      "category": "News",
-      "mrr_num": 0.0036,
-      "monthly_price_num": 19.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "StressWatch: AI Stress Monitor",
-      "app_id": 6444737095,
+      "app_name": "Running Walking Tracker Goals",
+      "app_id": 1136617388,
       "category": "Health & Fitness",
-      "mrr_num": 0.00359,
-      "monthly_price_num": 12.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
+      "mrr_num": 0.00314,
+      "monthly_price_num": 9.99,
+      "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "PlantDaily: AI Plant Care",
-      "app_id": 6698880428,
-      "category": "Lifestyle",
-      "mrr_num": 0.00358,
+      "app_name": "CyberGate",
+      "app_id": 6443507367,
+      "category": "Productivity",
+      "mrr_num": 0.00313,
       "monthly_price_num": 0.0,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Starla - Call the Universe",
-      "app_id": 6741873786,
-      "category": "Lifestyle",
-      "mrr_num": 0.00354,
+      "app_name": "Call Recorder for iPhone ㅤ",
+      "app_id": 1200776424,
+      "category": "Business",
+      "mrr_num": 0.00313,
       "monthly_price_num": 0.0,
       "paywall_type": "Free Trial - Soft Paywall"
     },
     {
-      "app_name": "Speak English with Loora AI",
-      "app_id": 1552708303,
-      "category": "Education",
-      "mrr_num": 0.00353,
+      "app_name": "Podcast App & Player - Castbox",
+      "app_id": 1243410543,
+      "category": "News",
+      "mrr_num": 0.00313,
+      "monthly_price_num": 3.99,
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Pure Flix",
+      "app_id": 995082390,
+      "category": "Entertainment",
+      "mrr_num": 0.00312,
       "monthly_price_num": 14.99,
       "paywall_type": "No Free Trial - Soft Paywall"
     },
     {
-      "app_name": "CARROT Weather: Alerts & Radar",
-      "app_id": 961390574,
-      "category": "Weather",
-      "mrr_num": 0.00353,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "Pixel Color: Paint by Number",
-      "app_id": 1436858922,
-      "category": "Entertainment",
-      "mrr_num": 0.00352,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Soft Paywall, Currency Paywall"
-    },
-    {
-      "app_name": "RISE: Sleep Tracker",
-      "app_id": 1453884781,
+      "app_name": "Stardust Period Tracker",
+      "app_id": 1495829322,
       "category": "Health & Fitness",
-      "mrr_num": 0.00352,
-      "monthly_price_num": 0.0,
-      "paywall_type": "Free Trial - Hard Paywall, No Free Trial - Hard Paywall"
-    },
-    {
-      "app_name": "Tencent Video",
-      "app_id": 1492898204,
-      "category": "Entertainment",
-      "mrr_num": 0.00351,
-      "monthly_price_num": 7.99,
-      "paywall_type": "No Free Trial - Soft Paywall"
-    },
-    {
-      "app_name": "AI Photo Generator: ARTA",
-      "app_id": 1642969698,
-      "category": "Photo & Video",
-      "mrr_num": 0.0035,
-      "monthly_price_num": 0.0,
+      "mrr_num": 0.00311,
+      "monthly_price_num": 6.99,
       "paywall_type": "Free Trial - Soft Paywall"
+    },
+    {
+      "app_name": "Transformers Rescue Bots: Dash",
+      "app_id": 1198584568,
+      "category": "Entertainment",
+      "mrr_num": 0.00309,
+      "monthly_price_num": 0.0,
+      "paywall_type": "No Free Trial - Soft Paywall"
     }
   ],
   "removed_apps": [],

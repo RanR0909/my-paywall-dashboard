@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T14:55:22Z",
-  "count": 1560,
+  "updated_at": "2026-11-02T17:56:52Z",
+  "count": 1610,
   "apps": [
     {
       "app_name": "LEGO® DUPLO® MARVEL",
@@ -150,7 +150,7 @@
       "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/nfl-389781154.md"
     },
     {
-      "app_name": "NYTimes: US and Global News",
+      "app_name": "NYTimes: US and World News",
       "app_id": 284862083,
       "developer": "The New York Times Company",
       "category": "News",
@@ -178,11 +178,11 @@
       ],
       "screenshots_count": 0,
       "onboarding_flows_count": 0,
-      "app_detail_url": "https://www.paywallpro.app/apps/NYTimes:-US-and-Global-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "app_detail_url": "https://www.paywallpro.app/apps/NYTimes:-US-and-World-News-us?id=65&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
       "has_free_trial": false,
       "monthly_price_num": 3.99,
-      "source_file": "nytimes-us-and-global-news-284862083.md",
-      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/nytimes-us-and-global-news-284862083.md"
+      "source_file": "nytimes-us-and-world-news-284862083.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/nytimes-us-and-world-news-284862083.md"
     },
     {
       "app_name": "MileIQ: Mileage Tracker & Log",
@@ -193,7 +193,7 @@
       "pricing_model": "1 offer set across month, year",
       "mrr": "$1.26M",
       "mrr_num": 1.26,
-      "rating": 4.77,
+      "rating": 4.76,
       "versions_count": 5,
       "offers": [
         {
@@ -51638,6 +51638,658 @@
       "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/ai-photo-generator-arta-1642969698.md"
     },
     {
+      "app_name": "Cast Web Videos to TV - iWebTV",
+      "app_id": 999462129,
+      "developer": "Swishly inc",
+      "category": "Photo & Video",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, one-time purchase",
+      "mrr": "$3.49K",
+      "mrr_num": 0.00349,
+      "rating": 4.75,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$0.99"
+          ]
+        },
+        {
+          "period": "one-time purchase",
+          "prices": [
+            "$6.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Cast-Web-Videos-to-TV---iWebTV-us?id=1965681&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.99,
+      "source_file": "cast-web-videos-to-tv-iwebtv-999462129.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/cast-web-videos-to-tv-iwebtv-999462129.md"
+    },
+    {
+      "app_name": "IMAIOS e-Anatomy",
+      "app_id": 334876403,
+      "developer": "IMAIOS",
+      "category": "Medical",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.47K",
+      "mrr_num": 0.00347,
+      "rating": 4.86,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$21.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$132.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/IMAIOS-e-Anatomy-us?id=1953113&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 21.99,
+      "source_file": "imaios-e-anatomy-334876403.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/imaios-e-anatomy-334876403.md"
+    },
+    {
+      "app_name": "MapXplorer: GPS Navigation",
+      "app_id": 6463052823,
+      "developer": "Goldlab Applications Yazilim Bilişim Anonim Şirketi",
+      "category": "Navigation",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.46K",
+      "mrr_num": 0.00346,
+      "rating": 4.52,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$6.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/MapXplorer:-GPS-Navigation-us?id=1733722&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "mapxplorer-gps-navigation-6463052823.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/mapxplorer-gps-navigation-6463052823.md"
+    },
+    {
+      "app_name": "The Nyx Network",
+      "app_id": 6462672843,
+      "developer": "The Nyx Network LLC",
+      "category": "Entertainment",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, quarter",
+      "mrr": "$3.45K",
+      "mrr_num": 0.00345,
+      "rating": 3.46,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$5.99"
+          ]
+        },
+        {
+          "period": "quarter",
+          "prices": [
+            "$16.49"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/The-Nyx-Network-us?id=34983&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 5.99,
+      "source_file": "the-nyx-network-6462672843.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/the-nyx-network-6462672843.md"
+    },
+    {
+      "app_name": "AI Ringtones：Ringtone Maker",
+      "app_id": 6740201074,
+      "developer": "CreativeLeap UnionTech Limited",
+      "category": "Music",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.44K",
+      "mrr_num": 0.00344,
+      "rating": 4.54,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$19.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/AI-Ringtones%EF%BC%9ARingtone-Maker-us?id=2142325&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "ai-ringtones-ringtone-maker-6740201074.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/ai-ringtones-ringtone-maker-6740201074.md"
+    },
+    {
+      "app_name": "AR Translator: Translate Photo",
+      "app_id": 1465903782,
+      "developer": "BrainMount Ltd",
+      "category": "Reference",
+      "paywall_type": "Free Trial - Hard Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.44K",
+      "mrr_num": 0.00344,
+      "rating": 4.67,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$4.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/AR-Translator:-Translate-Photo-us?id=1953060&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "ar-translator-translate-photo-1465903782.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/ar-translator-translate-photo-1465903782.md"
+    },
+    {
+      "app_name": "Hopster: ABC Games for Kids",
+      "app_id": 689165391,
+      "developer": "SandBox Group",
+      "category": "Education",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.44K",
+      "mrr_num": 0.00344,
+      "rating": 3.94,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$7.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$59.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Hopster:-ABC-Games-for-Kids-us?id=1952098&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 7.99,
+      "source_file": "hopster-abc-games-for-kids-689165391.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/hopster-abc-games-for-kids-689165391.md"
+    },
+    {
+      "app_name": "Monster Math 2: Kids Math Game",
+      "app_id": 1025450732,
+      "developer": "Makkajai Edu Tech Private Limited",
+      "category": "Education",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across year",
+      "mrr": "$3.44K",
+      "mrr_num": 0.00344,
+      "rating": 4.47,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "year",
+          "prices": [
+            "$59.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Monster-Math-2:-Kids-Math-Game-us?id=1955769&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "monster-math-2-kids-math-game-1025450732.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/monster-math-2-kids-math-game-1025450732.md"
+    },
+    {
+      "app_name": "WebNovel - Read Novels & Manga",
+      "app_id": 1234939196,
+      "developer": "Cloudary Holdings Limited",
+      "category": "Books",
+      "paywall_type": "Currency Paywall",
+      "pricing_model": "Not available in preview",
+      "mrr": "$3.44K",
+      "mrr_num": 0.00344,
+      "rating": 4.34,
+      "versions_count": 3,
+      "offers": [],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/WebNovel---Read-Novels-&-Manga-us?id=319&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.0,
+      "source_file": "webnovel-read-novels-and-manga-1234939196.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/webnovel-read-novels-and-manga-1234939196.md"
+    },
+    {
+      "app_name": "NOAA: Weather Radar & Forecast",
+      "app_id": 6503937276,
+      "developer": "LeoStudio Global",
+      "category": "Weather",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year, one-time purchase",
+      "mrr": "$3.43K",
+      "mrr_num": 0.00343,
+      "rating": 4.6,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$3.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99"
+          ]
+        },
+        {
+          "period": "one-time purchase",
+          "prices": [
+            "$59.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/NOAA:-Weather-Radar-&-Forecast-us?id=1952401&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "noaa-weather-radar-and-forecast-6503937276.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/noaa-weather-radar-and-forecast-6503937276.md"
+    },
+    {
+      "app_name": "Plant Guru - Plant Care Guide",
+      "app_id": 6469519481,
+      "developer": "AIBY",
+      "category": "Education",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.43K",
+      "mrr_num": 0.00343,
+      "rating": 4.44,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$6.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Plant-Guru---Plant-Care-Guide-us?id=18978&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "plant-guru-plant-care-guide-6469519481.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/plant-guru-plant-care-guide-6469519481.md"
+    },
+    {
+      "app_name": "Star Walk 2 Plus: Live Sky Map",
+      "app_id": 1112481571,
+      "developer": "Vito Technology Inc.",
+      "category": "Education",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across month, one-time purchase",
+      "mrr": "$3.40K",
+      "mrr_num": 0.0034,
+      "rating": 4.63,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$0.99"
+          ]
+        },
+        {
+          "period": "one-time purchase",
+          "prices": [
+            "$8.99",
+            "$8.99/$2.99/$0.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Star-Walk-2-Plus:-Live-Sky-Map-us?id=856439&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.99,
+      "source_file": "star-walk-2-plus-live-sky-map-1112481571.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/star-walk-2-plus-live-sky-map-1112481571.md"
+    },
+    {
+      "app_name": "BuckScore",
+      "app_id": 1423128708,
+      "developer": "Virtual Biologist",
+      "category": "Sports",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.38K",
+      "mrr_num": 0.00338,
+      "rating": 1.12,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$3.99/$5.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99/$59.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/BuckScore-us?id=2401556&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 3.99,
+      "source_file": "buckscore-1423128708.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/buckscore-1423128708.md"
+    },
+    {
+      "app_name": "Cancel Subscriptions & Refund",
+      "app_id": 6479920412,
+      "developer": "VUNYO",
+      "category": "Finance",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across week, year, one-time purchase",
+      "mrr": "$3.37K",
+      "mrr_num": 0.00337,
+      "rating": 4.11,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$4.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$29.99"
+          ]
+        },
+        {
+          "period": "one-time purchase",
+          "prices": [
+            "$19.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Cancel-Subscriptions-&-Refund-us?id=1974374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.0,
+      "source_file": "cancel-subscriptions-and-refund-6479920412.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/cancel-subscriptions-and-refund-6479920412.md"
+    },
+    {
+      "app_name": "Cleaner Neat: Clean Up Storage",
+      "app_id": 1463756032,
+      "developer": "Smart Tool Studio",
+      "category": "Utilities",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year, one-time purchase",
+      "mrr": "$3.36K",
+      "mrr_num": 0.00336,
+      "rating": 4.58,
+      "versions_count": 4,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$6.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99"
+          ]
+        },
+        {
+          "period": "one-time purchase",
+          "prices": [
+            "$99.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Cleaner-Neat:-Clean-Up-Storage-us?id=422&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.0,
+      "source_file": "cleaner-neat-clean-up-storage-1463756032.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/cleaner-neat-clean-up-storage-1463756032.md"
+    },
+    {
+      "app_name": "Find My Friends: Phone Locator",
+      "app_id": 6744725106,
+      "developer": "Cardio For Health",
+      "category": "Social Networking",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year, quarter",
+      "mrr": "$3.36K",
+      "mrr_num": 0.00336,
+      "rating": 3.53,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$12.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$69.99"
+          ]
+        },
+        {
+          "period": "quarter",
+          "prices": [
+            "$39.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Find-My-Friends:-Phone-Locator-us?id=1949994&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.0,
+      "source_file": "find-my-friends-phone-locator-6744725106.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/find-my-friends-phone-locator-6744725106.md"
+    },
+    {
+      "app_name": "Luxy PRO: Elite & Quality Date",
+      "app_id": 1089481539,
+      "developer": "MIXY HOLDINGS LTD",
+      "category": "Social Networking",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, half year, year",
+      "mrr": "$3.36K",
+      "mrr_num": 0.00336,
+      "rating": 4.78,
+      "versions_count": 3,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$99.99"
+          ]
+        },
+        {
+          "period": "half year",
+          "prices": [
+            "$349.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$449.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Luxy-PRO:-Elite-&-Quality-Date-us?id=667574&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 99.99,
+      "source_file": "luxy-pro-elite-and-quality-date-1089481539.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/luxy-pro-elite-and-quality-date-1089481539.md"
+    },
+    {
+      "app_name": "Smart Air Printer App & Scan",
+      "app_id": 1562653542,
+      "developer": "FLOWMATIC PTE. LTD",
+      "category": "Business",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.36K",
+      "mrr_num": 0.00336,
+      "rating": 3.83,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$5.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$29.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Smart-Air-Printer-App-&-Scan-us?id=2334356&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "smart-air-printer-app-and-scan-1562653542.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/smart-air-printer-app-and-scan-1562653542.md"
+    },
+    {
+      "app_name": "Picsify: AI Photo&Video Editor",
+      "app_id": 6443500995,
+      "developer": "Picsify.Inc",
+      "category": "Photo & Video",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "3 offer sets across week, month, year, quarter",
+      "mrr": "$3.35K",
+      "mrr_num": 0.00335,
+      "rating": 4.51,
+      "versions_count": 3,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$7.99"
+          ]
+        },
+        {
+          "period": "month",
+          "prices": [
+            "$19.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$49.99",
+            "$29.99"
+          ]
+        },
+        {
+          "period": "quarter",
+          "prices": [
+            "$29.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Picsify:-AI-Photo&Video-Editor-us?id=32161&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 19.99,
+      "source_file": "picsify-ai-photo-and-video-editor-6443500995.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/picsify-ai-photo-and-video-editor-6443500995.md"
+    },
+    {
       "app_name": "ScanGuru: PDF Scanner App",
       "app_id": 1040149161,
       "developer": "GM UniverseApps Limited",
@@ -51683,6 +52335,690 @@
       "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/scanguru-pdf-scanner-app-1040149161.md"
     },
     {
+      "app_name": "The Week US: Daily Analysis",
+      "app_id": 498216307,
+      "developer": "Future plc",
+      "category": "News",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, half year, year",
+      "mrr": "$3.34K",
+      "mrr_num": 0.00334,
+      "rating": 4.73,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$12.99"
+          ]
+        },
+        {
+          "period": "half year",
+          "prices": [
+            "$59.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$89.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/The-Week-US:-Daily-Analysis-us?id=1950787&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 12.99,
+      "source_file": "the-week-us-daily-analysis-498216307.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/the-week-us-daily-analysis-498216307.md"
+    },
+    {
+      "app_name": "BodyWave: Health Tracker",
+      "app_id": 6479513000,
+      "developer": "AXIVORA INTELLIGENT TECH PTE. LTD.",
+      "category": "Health & Fitness",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across month, year",
+      "mrr": "$3.33K",
+      "mrr_num": 0.00333,
+      "rating": 4.59,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$14.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$29.99",
+            "$36.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/BodyWave:-Health-Tracker-us?id=1183184&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 14.99,
+      "source_file": "bodywave-health-tracker-6479513000.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/bodywave-health-tracker-6479513000.md"
+    },
+    {
+      "app_name": "Baby Phone Game for Toddlers",
+      "app_id": 1625077286,
+      "developer": "JMH Developers OU",
+      "category": "Education",
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across week, month, year",
+      "mrr": "$3.32K",
+      "mrr_num": 0.00332,
+      "rating": 3.97,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$7.99"
+          ]
+        },
+        {
+          "period": "month",
+          "prices": [
+            "$14.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$24.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Baby-Phone-Game-for-Toddlers-us?id=1952177&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 14.99,
+      "source_file": "baby-phone-game-for-toddlers-1625077286.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/baby-phone-game-for-toddlers-1625077286.md"
+    },
+    {
+      "app_name": "Weight Loss Walking by Slimkit",
+      "app_id": 950669893,
+      "developer": "MONTIBUS LTD",
+      "category": "Health & Fitness",
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across month, year, quarter",
+      "mrr": "$3.31K",
+      "mrr_num": 0.00331,
+      "rating": 4.41,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99",
+            "$49.99/$69.99"
+          ]
+        },
+        {
+          "period": "quarter",
+          "prices": [
+            "$39.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Weight-Loss-Walking-by-Slimkit-us?id=46327&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 9.99,
+      "source_file": "weight-loss-walking-by-slimkit-950669893.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/weight-loss-walking-by-slimkit-950669893.md"
+    },
+    {
+      "app_name": "GOWOD – Mobility & Stretching",
+      "app_id": 1227834875,
+      "developer": "Mobility First Group",
+      "category": "Health & Fitness",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.30K",
+      "mrr_num": 0.0033,
+      "rating": 4.81,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$12.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$116.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/GOWOD-%E2%80%93-Mobility-&-Stretching-us?id=766391&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 12.99,
+      "source_file": "gowod-mobility-and-stretching-1227834875.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/gowod-mobility-and-stretching-1227834875.md"
+    },
+    {
+      "app_name": "Passes",
+      "app_id": 6736365906,
+      "developer": "Passes",
+      "category": "Entertainment",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "3 offer sets across month, year",
+      "mrr": "$3.29K",
+      "mrr_num": 0.00329,
+      "rating": 4.66,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$50",
+            "$100"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$80"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Passes-us?id=1402200&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 50.0,
+      "source_file": "passes-6736365906.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/passes-6736365906.md"
+    },
+    {
+      "app_name": "Color by Number：Coloring Games",
+      "app_id": 1317978215,
+      "developer": "Wildlife Studios",
+      "category": "Entertainment",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week",
+      "mrr": "$3.28K",
+      "mrr_num": 0.00328,
+      "rating": 4.74,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$9.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Color-by-Number%EF%BC%9AColoring-Games-us?id=289&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "color-by-number-coloring-games-1317978215.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/color-by-number-coloring-games-1317978215.md"
+    },
+    {
+      "app_name": "Voice Recorder: AI Note Taker",
+      "app_id": 6503227362,
+      "developer": "Voice Inc.",
+      "category": "Utilities",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.28K",
+      "mrr_num": 0.00328,
+      "rating": 4.66,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$7.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$69.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Voice-Recorder:-AI-Note-Taker-us?id=1950703&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "voice-recorder-ai-note-taker-6503227362.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/voice-recorder-ai-note-taker-6503227362.md"
+    },
+    {
+      "app_name": "Digital Planner – Task Journal",
+      "app_id": 1632352471,
+      "developer": "ToolStyle",
+      "category": "Productivity",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, month",
+      "mrr": "$3.26K",
+      "mrr_num": 0.00326,
+      "rating": 4.28,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$6.99"
+          ]
+        },
+        {
+          "period": "month",
+          "prices": [
+            "$13.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Digital-Planner-%E2%80%93-Task-Journal-us?id=1952140&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 13.99,
+      "source_file": "digital-planner-task-journal-1632352471.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/digital-planner-task-journal-1632352471.md"
+    },
+    {
+      "app_name": "Learning games for Kid&Toddler",
+      "app_id": 1567954947,
+      "developer": "Gamos Mobile Limited",
+      "category": "Education",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.26K",
+      "mrr_num": 0.00326,
+      "rating": 4.32,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$6.999"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$34.999"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Learning-games-for-Kid&Toddler-us?id=1952124&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 6.999,
+      "source_file": "learning-games-for-kid-and-toddler-1567954947.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/learning-games-for-kid-and-toddler-1567954947.md"
+    },
+    {
+      "app_name": "DietAI: Calorie Counter & Diet",
+      "app_id": 6451091585,
+      "developer": "DIGITAL LIONS APPS",
+      "category": "Health & Fitness",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.25K",
+      "mrr_num": 0.00325,
+      "rating": 4.78,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$29.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/DietAI:-Calorie-Counter-&-Diet-us?id=865934&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 9.99,
+      "source_file": "dietai-calorie-counter-and-diet-6451091585.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/dietai-calorie-counter-and-diet-6451091585.md"
+    },
+    {
+      "app_name": "iMaps+ for Google Maps",
+      "app_id": 585801479,
+      "developer": "Apptility Limited",
+      "category": "Navigation",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year, quarter",
+      "mrr": "$3.25K",
+      "mrr_num": 0.00325,
+      "rating": 3.15,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$6.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99"
+          ]
+        },
+        {
+          "period": "quarter",
+          "prices": [
+            "$12.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/iMaps%2B-for-Google-Maps-us?id=1950864&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 6.99,
+      "source_file": "imaps-for-google-maps-585801479.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/imaps-for-google-maps-585801479.md"
+    },
+    {
+      "app_name": "Sky Tonight - Stargazing Guide",
+      "app_id": 1570594940,
+      "developer": "Vito Technology Inc.",
+      "category": "Reference",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, one-time purchase",
+      "mrr": "$3.25K",
+      "mrr_num": 0.00325,
+      "rating": 4.76,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$0.99"
+          ]
+        },
+        {
+          "period": "one-time purchase",
+          "prices": [
+            "$12.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Sky-Tonight---Stargazing-Guide-us?id=1493375&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.99,
+      "source_file": "sky-tonight-stargazing-guide-1570594940.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/sky-tonight-stargazing-guide-1570594940.md"
+    },
+    {
+      "app_name": "Webfic-Make Reading Fantastic",
+      "app_id": 1517946671,
+      "developer": "DIANZHONG TECHNOLOGY SINGAPORE PTE. LTD.",
+      "category": "Books",
+      "paywall_type": "No Free Trial - Soft Paywall, Currency Paywall",
+      "pricing_model": "1 offer set across month, year, quarter",
+      "mrr": "$3.25K",
+      "mrr_num": 0.00325,
+      "rating": 4.34,
+      "versions_count": 3,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$119.99"
+          ]
+        },
+        {
+          "period": "quarter",
+          "prices": [
+            "$29.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Webfic-Make-Reading-Fantastic-us?id=33100&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 9.99,
+      "source_file": "webfic-make-reading-fantastic-1517946671.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/webfic-make-reading-fantastic-1517946671.md"
+    },
+    {
+      "app_name": "Bright - English for beginners",
+      "app_id": 1258621855,
+      "developer": "Language Apps Limited",
+      "category": "Education",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.23K",
+      "mrr_num": 0.00323,
+      "rating": 4.68,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$14.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$79.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Bright---English-for-beginners-us?id=201673&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 14.99,
+      "source_file": "bright-english-for-beginners-1258621855.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/bright-english-for-beginners-1258621855.md"
+    },
+    {
+      "app_name": "KP - AI Music & Song Generator",
+      "app_id": 6744406259,
+      "developer": "Suzhou Siling Network Technology Co Ltd",
+      "category": "Music",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across week, year",
+      "mrr": "$3.23K",
+      "mrr_num": 0.00323,
+      "rating": 4.62,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$7.99/$14.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$49.99/$42.99",
+            "$69.99/$188.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/KP---AI-Music-&-Song-Generator-us?id=1959167&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.0,
+      "source_file": "kp-ai-music-and-song-generator-6744406259.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/kp-ai-music-and-song-generator-6744406259.md"
+    },
+    {
+      "app_name": "Lens Buddy - Self Timer Camera",
+      "app_id": 1289471945,
+      "developer": "Lens Buddy Selfie Timer Photo Video Filter Camera LLC",
+      "category": "Photo & Video",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across year",
+      "mrr": "$3.23K",
+      "mrr_num": 0.00323,
+      "rating": 4.88,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "year",
+          "prices": [
+            "$29.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Lens-Buddy---Self-Timer-Camera-us?id=1951908&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "lens-buddy-self-timer-camera-1289471945.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/lens-buddy-self-timer-camera-1289471945.md"
+    },
+    {
+      "app_name": "PDF Expert: Editor & Reader",
+      "app_id": 743974925,
+      "developer": "Readdle Technologies Limited",
+      "category": "Productivity",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "3 offer sets across year",
+      "mrr": "$3.21K",
+      "mrr_num": 0.00321,
+      "rating": 4.67,
+      "versions_count": 3,
+      "offers": [
+        {
+          "period": "year",
+          "prices": [
+            "$79.99",
+            "$79.99/$49.99",
+            "$49.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/PDF-Expert:-Editor-&-Reader-us?id=326&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "pdf-expert-editor-and-reader-743974925.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/pdf-expert-editor-and-reader-743974925.md"
+    },
+    {
+      "app_name": "Cocktail Flow - Drink Recipes",
+      "app_id": 486811622,
+      "developer": "Cocktai Flow",
+      "category": "Food & Drink",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.20K",
+      "mrr_num": 0.0032,
+      "rating": 4.73,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$4.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$24.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Cocktail-Flow---Drink-Recipes-us?id=1950566&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 4.99,
+      "source_file": "cocktail-flow-drink-recipes-486811622.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/cocktail-flow-drink-recipes-486811622.md"
+    },
+    {
+      "app_name": "Screen Mirroring | Smart TV",
+      "app_id": 1586624313,
+      "developer": "Level Clash Apps S.L.",
+      "category": "Utilities",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "3 offer sets across month, year, one-time purchase",
+      "mrr": "$3.18K",
+      "mrr_num": 0.00318,
+      "rating": 4.46,
+      "versions_count": 4,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$19.99"
+          ]
+        },
+        {
+          "period": "one-time purchase",
+          "prices": [
+            "$39.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Screen-Mirroring-%7C-Smart-TV-us?id=6716&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 9.99,
+      "source_file": "screen-mirroring-smart-tv-1586624313.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/screen-mirroring-smart-tv-1586624313.md"
+    },
+    {
       "app_name": "GraceChat",
       "app_id": 1658972379,
       "developer": "AI FANTASY INC",
@@ -51714,6 +53050,376 @@
       "monthly_price_num": 29.99,
       "source_file": "gracechat-1658972379.md",
       "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/gracechat-1658972379.md"
+    },
+    {
+      "app_name": "KAI: Comic Maker Manga, Manhwa",
+      "app_id": 6755991544,
+      "developer": "MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI",
+      "category": "Books",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.15K",
+      "mrr_num": 0.00315,
+      "rating": 4.52,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$5.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$39.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/KAI:-Comic-Maker-Manga%2C-Manhwa-us?id=2628844&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.0,
+      "source_file": "kai-comic-maker-manga-manhwa-6755991544.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/kai-comic-maker-manga-manhwa-6755991544.md"
+    },
+    {
+      "app_name": "Mojo: AI Video & Reels Editor",
+      "app_id": 1434861974,
+      "developer": "Archery Inc.",
+      "category": "Photo & Video",
+      "paywall_type": "No Free Trial - Soft Paywall, Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across month, year",
+      "mrr": "$3.15K",
+      "mrr_num": 0.00315,
+      "rating": 4.86,
+      "versions_count": 3,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$17.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$69.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Mojo:-AI-Video-&-Reels-Editor-us?id=471&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 17.99,
+      "source_file": "mojo-ai-video-and-reels-editor-1434861974.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/mojo-ai-video-and-reels-editor-1434861974.md"
+    },
+    {
+      "app_name": "IFTTT - Automate work and home",
+      "app_id": 660944635,
+      "developer": "IFTTT",
+      "category": "Productivity",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.14K",
+      "mrr_num": 0.00314,
+      "rating": 4.61,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$3.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$34.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/IFTTT---Automate-work-and-home-us?id=1952018&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 3.99,
+      "source_file": "ifttt-automate-work-and-home-660944635.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/ifttt-automate-work-and-home-660944635.md"
+    },
+    {
+      "app_name": "Running Walking Tracker Goals",
+      "app_id": 1136617388,
+      "developer": "AK Apptuitive GmbH",
+      "category": "Health & Fitness",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.14K",
+      "mrr_num": 0.00314,
+      "rating": 4.82,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$44.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Running-Walking-Tracker-Goals-us?id=1967393&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 9.99,
+      "source_file": "running-walking-tracker-goals-1136617388.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/running-walking-tracker-goals-1136617388.md"
+    },
+    {
+      "app_name": "Swimtopia",
+      "app_id": 881521818,
+      "developer": "Team Topia Inc",
+      "category": "Sports",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.14K",
+      "mrr_num": 0.00314,
+      "rating": 4.72,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$5.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$14.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Swimtopia-us?id=46331&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 5.99,
+      "source_file": "swimtopia-881521818.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/swimtopia-881521818.md"
+    },
+    {
+      "app_name": "Call Recorder for iPhone ㅤ",
+      "app_id": 1200776424,
+      "developer": "BPMobile",
+      "category": "Business",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.13K",
+      "mrr_num": 0.00313,
+      "rating": 4.36,
+      "versions_count": 4,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$19.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Call-Recorder-for-iPhone-%E3%85%A4-us?id=710&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "call-recorder-for-iphone-1200776424.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/call-recorder-for-iphone-1200776424.md"
+    },
+    {
+      "app_name": "CyberGate",
+      "app_id": 6443507367,
+      "developer": "FREEHOLD DANIEL HOUSE LIMITED",
+      "category": "Productivity",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across week, year",
+      "mrr": "$3.13K",
+      "mrr_num": 0.00313,
+      "rating": 4.59,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$9.49"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$24.99/$8.49"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/CyberGate-us?id=2605609&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 0.0,
+      "source_file": "cybergate-6443507367.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/cybergate-6443507367.md"
+    },
+    {
+      "app_name": "Podcast App & Player - Castbox",
+      "app_id": 1243410543,
+      "developer": "Guru Network Limited",
+      "category": "News",
+      "paywall_type": "Free Trial - Soft Paywall, No Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across month, year, quarter",
+      "mrr": "$3.13K",
+      "mrr_num": 0.00313,
+      "rating": 4.9,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$3.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$34.99",
+            "$17.49"
+          ]
+        },
+        {
+          "period": "quarter",
+          "prices": [
+            "$9.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Podcast-App-&-Player---Castbox-us?id=1952048&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 3.99,
+      "source_file": "podcast-app-and-player-castbox-1243410543.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/podcast-app-and-player-castbox-1243410543.md"
+    },
+    {
+      "app_name": "Pure Flix",
+      "app_id": 995082390,
+      "developer": "Great American PF, LLC",
+      "category": "Entertainment",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across month, year",
+      "mrr": "$3.12K",
+      "mrr_num": 0.00312,
+      "rating": 4.55,
+      "versions_count": 2,
+      "offers": [
+        {
+          "period": "month",
+          "prices": [
+            "$14.99/$9.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$149.99/$89.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Pure-Flix-us?id=3911&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 14.99,
+      "source_file": "pure-flix-995082390.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/pure-flix-995082390.md"
+    },
+    {
+      "app_name": "Stardust Period Tracker",
+      "app_id": 1495829322,
+      "developer": "Stardust App LLC (New York)",
+      "category": "Health & Fitness",
+      "paywall_type": "Free Trial - Soft Paywall",
+      "pricing_model": "2 offer sets across week, month, year",
+      "mrr": "$3.11K",
+      "mrr_num": 0.00311,
+      "rating": 4.76,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "week",
+          "prices": [
+            "$2.99"
+          ]
+        },
+        {
+          "period": "month",
+          "prices": [
+            "$6.99"
+          ]
+        },
+        {
+          "period": "year",
+          "prices": [
+            "$24.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Stardust-Period-Tracker-us?id=2947&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": true,
+      "monthly_price_num": 6.99,
+      "source_file": "stardust-period-tracker-1495829322.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/stardust-period-tracker-1495829322.md"
+    },
+    {
+      "app_name": "Transformers Rescue Bots: Dash",
+      "app_id": 1198584568,
+      "developer": "Budge Studios",
+      "category": "Entertainment",
+      "paywall_type": "No Free Trial - Soft Paywall",
+      "pricing_model": "1 offer set across year",
+      "mrr": "$3.09K",
+      "mrr_num": 0.00309,
+      "rating": 4.49,
+      "versions_count": 1,
+      "offers": [
+        {
+          "period": "year",
+          "prices": [
+            "$19.99"
+          ]
+        }
+      ],
+      "screenshots_count": 0,
+      "onboarding_flows_count": 0,
+      "app_detail_url": "https://www.paywallpro.app/apps/Transformers-Rescue-Bots:-Dash-us?id=1950878&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+      "has_free_trial": false,
+      "monthly_price_num": 0.0,
+      "source_file": "transformers-rescue-bots-dash-1198584568.md",
+      "github_url": "https://github.com/paywallpro/paywall-gallery/blob/main/apps/transformers-rescue-bots-dash-1198584568.md"
     },
     {
       "app_name": "Forms for Google Docs",
